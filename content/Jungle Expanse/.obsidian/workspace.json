@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "4bdd5d73e16f1e4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f7f87679a510d81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bda032fdf5689b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Sessions/Session 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "050e6396a04c3660",
+    "type": "split",
+    "children": [
+      {
+        "id": "99d7b5354920d835",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03baf65ca1cbeea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68215bbe2b87c263",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cda255827e2949d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38f6a08613c5f9aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e33728122e31a4b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55e5654833069e93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaign/Sessions/Session 0.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "871b11cdb71b9705",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaign/Sessions/Session 0.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5bf7daa241313c63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83a9f93915b0fa36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaign/Sessions/Session 0.md"
+              }
+            }
+          },
+          {
+            "id": "62c51106f10d93ce",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_e8aa8a0a794a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 18,
+                    "month": 7,
+                    "year": 4724
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_38cae9eaea0b",
+                "child": "ID_fa387b7b4bf8"
+              }
+            }
+          },
+          {
+            "id": "bcb3ee2d62639b08",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_e8aa8a0a794a",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 18,
+                    "month": 7,
+                    "year": 4724
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 18,
+                    "month": 7,
+                    "year": 4724
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_8bcb6908580b",
+                "child": "ID_c8486a2ba808"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "b9061ddceb67b84d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d40009d6ea7b0b6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_e8aa8a0a794a",
+                "id": "ID_fa387b7b4bf8",
+                "parent": "ID_38cae9eaea0b"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "71aeec6a78c0fc0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7299ab2c8c744b94",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_e8aa8a0a794a",
+                "id": "ID_c8486a2ba808",
+                "parent": "ID_8bcb6908580b"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "1bda032fdf5689b8",
+  "lastOpenFiles": [
+    "Campaign/Население джунглей.md",
+    "Campaign/Sessions/Session 0.md",
+    "Campaign/Characters/Агис Лаурэ.md",
+    "World/Jungle/Factions/Циклопы Гол-Ган/История Гол-Ган.md",
+    "World/Jungle/Factions/Циклопы Гол-Ган/Известные руины Гол-Гана.md",
+    "Campaign/Описание Кампании.md",
+    "Campaign/Characters/Сайрим Абердин.md",
+    "World/Sargava/Cities/Эледер.md",
+    "Welcome.md",
+    "README.md",
+    "Map test.md",
+    "create a link.md",
+    "World/Око Абендего.md",
+    "World/Гарунд.md",
+    "World/Shackles/Оковы.md",
+    "Campaign/Characters/Кейси.md",
+    "Campaign/Characters/Джонатан Джостар.md",
+    "Campaign/Characters/Виктор де Лунариус.md",
+    "Порта Свободы.md",
+    "World/Sargava/Factions/Экспедиционный Корпус Саргавы.md",
+    "Images/Victor.jpg",
+    "Images/Sairim.png",
+    "Images/JoJo.png",
+    "Images/Casey.png",
+    "Images/Agis.jpg",
+    "Campaign/Characters",
+    "Images/wood_idol.png",
+    "Images/bone_idol.png",
+    "Images/Jungle_of_Hungry_Trees 1.png",
+    "World/Sargava/Factions/Племена Мванги в Саргаве.md",
+    "World/Sargava/Factions/Гильдия Лодочников.md",
+    "World/Sargava/Cities/Калабуто.md",
+    "World/Sargava/Notable NPC/Гавин Милиний.md",
+    "World/Sargava/Notable NPC/Лария Ародатус.md",
+    "World/Sargava/Notable NPC/Борго Железные Ворота.md",
+    "Images/Aspis_badge.png",
+    "Images/Yellow Musk Creeper.png",
+    "World/Jungle/Random Encounters/Ruins",
+    "World/Jungle/Random Encounters/River",
+    "World/Jungle/Random Encounters/Jungle/Enemies",
+    "World/Jungle/Random Encounters/Jungle",
+    "World/Jungle/Random Encounters",
+    "World/Jungle/Factions/Циклопы Гол-Ган"
+  ]
+}
