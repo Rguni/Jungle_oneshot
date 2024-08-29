@@ -275,8 +275,8 @@
         ]
       },
       "current": {
-        "day": 18,
-        "month": 7,
+        "day": 2,
+        "month": 8,
         "year": 4724
       },
       "events": [
@@ -1832,6 +1832,57 @@
           },
           "id": "ID_7a3bbb38995a",
           "note": "Campaign/Sessions/Session 0.md",
+          "category": "miscellaneous-events",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Прибытие Флавия и Виктора",
+          "description": null,
+          "date": {
+            "day": 24,
+            "month": 7,
+            "year": 4724
+          },
+          "id": "ID_1bb85858f82b",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Прибытие Флавия и Виктора",
+          "description": null,
+          "date": {
+            "day": 24,
+            "month": 7,
+            "year": 4724
+          },
+          "id": "ID_1bb85858f82b",
+          "note": null,
+          "category": "miscellaneous-events",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Возвращение из похода",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 8,
+            "year": 4724
+          },
+          "id": "ID_7b8be8b88bca",
+          "note": null,
           "category": "miscellaneous-events",
           "sort": {
             "timestamp": 5e-324,

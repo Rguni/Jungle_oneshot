@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "4bdd5d73e16f1e4a",
+    "id": "5b6962c8acc3d851",
     "type": "split",
     "children": [
       {
-        "id": "4f7f87679a510d81",
+        "id": "49be3036c56e3baf",
         "type": "tabs",
         "children": [
           {
-            "id": "1bda032fdf5689b8",
+            "id": "661ebddbad7b35ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Sessions/Session 0.md",
+                "file": "Campaign/Sessions/Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "050e6396a04c3660",
+    "id": "d50aa667ad2dea73",
     "type": "split",
     "children": [
       {
-        "id": "99d7b5354920d835",
+        "id": "26a28bb9dad9ed65",
         "type": "tabs",
         "children": [
           {
-            "id": "d03baf65ca1cbeea",
+            "id": "624ff3a4f5814761",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "68215bbe2b87c263",
+            "id": "6bac8ed635c40401",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "5cda255827e2949d",
+            "id": "6343463d6a64d23e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,44 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "38f6a08613c5f9aa",
+    "id": "b42bd50fad64d67b",
     "type": "split",
     "children": [
       {
-        "id": "e33728122e31a4b8",
+        "id": "c935deece8eb84e9",
         "type": "tabs",
         "children": [
           {
-            "id": "55e5654833069e93",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Campaign/Sessions/Session 0.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "871b11cdb71b9705",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Campaign/Sessions/Session 0.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "5bf7daa241313c63",
+            "id": "c7cfcb087e437183",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,39 +91,46 @@
             }
           },
           {
-            "id": "83a9f93915b0fa36",
+            "id": "5d488ab0a4c86bd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaign/Sessions/Session 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e13c862ea178c45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaign/Sessions/Session 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "216dea3130b3ca2b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Sessions/Session 0.md"
+                "file": "Campaign/Sessions/Session 1.md"
               }
             }
           },
           {
-            "id": "62c51106f10d93ce",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_e8aa8a0a794a",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 18,
-                    "month": 7,
-                    "year": 4724
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_38cae9eaea0b",
-                "child": "ID_fa387b7b4bf8"
-              }
-            }
-          },
-          {
-            "id": "bcb3ee2d62639b08",
+            "id": "b8f7f6dd7f7691d6",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -160,8 +138,8 @@
                 "calendar": "ID_e8aa8a0a794a",
                 "ephemeral": {
                   "viewing": {
-                    "day": 18,
-                    "month": 7,
+                    "day": 2,
+                    "month": 8,
                     "year": 4724
                   },
                   "viewState": 1,
@@ -171,47 +149,31 @@
                     "year": 4724
                   },
                   "displayDayNumber": false,
+                  "hideEra": false,
+                  "displayAbsoluteYear": true,
                   "displayMoons": true
                 },
-                "id": "ID_8bcb6908580b",
-                "child": "ID_c8486a2ba808"
+                "id": "ID_384b3bdb086a",
+                "child": "ID_99e95be9f9da"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
-        "id": "b9061ddceb67b84d",
+        "id": "83b7bdcca490ba0f",
         "type": "tabs",
         "children": [
           {
-            "id": "8d40009d6ea7b0b6",
+            "id": "c203d71305928beb",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_e8aa8a0a794a",
-                "id": "ID_fa387b7b4bf8",
-                "parent": "ID_38cae9eaea0b"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "71aeec6a78c0fc0a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7299ab2c8c744b94",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_e8aa8a0a794a",
-                "id": "ID_c8486a2ba808",
-                "parent": "ID_8bcb6908580b"
+                "id": "ID_99e95be9f9da",
+                "parent": "ID_384b3bdb086a"
               }
             }
           }
@@ -229,55 +191,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "1bda032fdf5689b8",
+  "active": "661ebddbad7b35ec",
   "lastOpenFiles": [
-    "Campaign/Население джунглей.md",
     "Campaign/Sessions/Session 0.md",
-    "Campaign/Characters/Агис Лаурэ.md",
-    "World/Jungle/Factions/Циклопы Гол-Ган/История Гол-Ган.md",
-    "World/Jungle/Factions/Циклопы Гол-Ган/Известные руины Гол-Гана.md",
+    "Campaign/Sessions/Session 1.md",
     "Campaign/Описание Кампании.md",
-    "Campaign/Characters/Сайрим Абердин.md",
-    "World/Sargava/Cities/Эледер.md",
-    "Welcome.md",
-    "README.md",
-    "Map test.md",
-    "create a link.md",
-    "World/Око Абендего.md",
-    "World/Гарунд.md",
-    "World/Shackles/Оковы.md",
-    "Campaign/Characters/Кейси.md",
+    "Campaign/Население джунглей.md",
     "Campaign/Characters/Джонатан Джостар.md",
     "Campaign/Characters/Виктор де Лунариус.md",
-    "Порта Свободы.md",
-    "World/Sargava/Factions/Экспедиционный Корпус Саргавы.md",
-    "Images/Victor.jpg",
-    "Images/Sairim.png",
-    "Images/JoJo.png",
-    "Images/Casey.png",
-    "Images/Agis.jpg",
-    "Campaign/Characters",
+    "Campaign/Characters/Агис Лаурэ.md",
+    "World/Sargava/Cities/Порт Свободы.md",
+    "World/Jungle/Random Encounters/Jungle/Enemies/Bone Idol.md",
     "Images/wood_idol.png",
     "Images/bone_idol.png",
     "Images/Jungle_of_Hungry_Trees 1.png",
-    "World/Sargava/Factions/Племена Мванги в Саргаве.md",
-    "World/Sargava/Factions/Гильдия Лодочников.md",
-    "World/Sargava/Cities/Калабуто.md",
-    "World/Sargava/Notable NPC/Гавин Милиний.md",
-    "World/Sargava/Notable NPC/Лария Ародатус.md",
-    "World/Sargava/Notable NPC/Борго Железные Ворота.md",
-    "Images/Aspis_badge.png",
-    "Images/Yellow Musk Creeper.png",
-    "World/Jungle/Random Encounters/Ruins",
-    "World/Jungle/Random Encounters/River",
-    "World/Jungle/Random Encounters/Jungle/Enemies",
-    "World/Jungle/Random Encounters/Jungle",
-    "World/Jungle/Random Encounters",
-    "World/Jungle/Factions/Циклопы Гол-Ган"
+    "Campaign/Characters/Сайрим Абердин.md",
+    "Campaign/Characters/Кейси.md",
+    "World/Jungle/Random Encounters/Jungle/Enemies/Dream Spider.md",
+    "Images/JoJo.png",
+    "Images/Casey.png",
+    "Images/Agis.jpg",
+    "Images/Victor.jpg",
+    "Images/Sairim.png",
+    "World/Jungle/Random Encounters/Jungle/Enemies/Giant Spider.md",
+    "World/Jungle/Random Encounters/Jungle/Enemies/Yellow Musk Creeper.md",
+    "World/Jungle/Random Encounters/Jungle/Encouners Table.md",
+    "World/Jungle/Factions/Циклопы Гохл-Ган.md",
+    "World/Jungle/Random Encounters/Jungle/Enemies/Idol, Wood.md",
+    "World/Jungle/Factions/Циклопы Гол-Ган/Известные руины Гол-Гана.md",
+    "World/Shackles/Оковы.md",
+    "World/Shackles/Cities/Порт Рисковый.md",
+    "World/Гарунд.md",
+    "World/Око Абендего.md",
+    "create a link.md",
+    "Welcome.md",
+    "README.md",
+    "Map test.md",
+    "templates",
+    "Images/Untugu.jpg",
+    "Images/Drake.jpg",
+    "Images/Yemba.jpg.~tmp",
+    "World/Shackles/Cities",
+    "World/Shackles",
+    "World/Sargava/Places",
+    "World/Sargava/Notable NPC",
+    "World/Sargava/Factions",
+    "World/Sargava/Cities",
+    "World/Sargava",
+    "World/Jungle/Factions/û¿¬½«»d â«½-âá¡"
   ]
 }
