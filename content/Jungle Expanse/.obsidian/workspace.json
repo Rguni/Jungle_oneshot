@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Sessions/Session 1.md",
+                "file": "Campaign/Characters/Флавий Калидий Леорунг.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Sessions/Session 1.md",
+                "file": "Campaign/Characters/Флавий Калидий Леорунг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Sessions/Session 1.md",
+                "file": "Campaign/Characters/Флавий Калидий Леорунг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Sessions/Session 1.md"
+                "file": "Campaign/Characters/Флавий Калидий Леорунг.md"
               }
             }
           },
@@ -138,8 +138,8 @@
                 "calendar": "ID_e8aa8a0a794a",
                 "ephemeral": {
                   "viewing": {
-                    "day": 2,
-                    "month": 8,
+                    "day": 24,
+                    "month": 7,
                     "year": 4724
                   },
                   "viewState": 1,
@@ -198,24 +198,33 @@
   },
   "active": "661ebddbad7b35ec",
   "lastOpenFiles": [
-    "Campaign/Sessions/Session 0.md",
     "Campaign/Sessions/Session 1.md",
-    "Campaign/Описание Кампании.md",
-    "Campaign/Население джунглей.md",
-    "Campaign/Characters/Джонатан Джостар.md",
+    "Campaign/Sessions/Session 0.md",
+    "Campaign/Characters/Флавий Калидий Леорунг.md",
+    "World/Jungle/Random Encounters/Jungle/Enemies/Dream Spider.md",
+    "Campaign/Characters/Сайрим Абердин.md",
+    "Campaign/Characters/Кейси.md",
+    "Images/House_Leroung.png",
     "Campaign/Characters/Виктор де Лунариус.md",
-    "Campaign/Characters/Агис Лаурэ.md",
+    "Campaign/Characters/Джонатан Джостар.md",
+    "Campaign/Население джунглей.md",
+    "World/Sargava/Factions/Гильдия Лодочников.md",
+    "World/Sargava/Factions/Племена Мванги в Саргаве.md",
+    "World/Sargava/Cities/Фрихолд.md",
     "World/Sargava/Cities/Порт Свободы.md",
+    "World/Sargava/Cities/Калабуто.md",
+    "World/Jungle/Random Encounters/Jungle/Enemies/Giant Centepide.md",
+    "World/Jungle/Factions/Циклопы Гол-Ган/Современное наследие Гол-Гана и всякое.md",
+    "Images/Agis.jpg",
+    "Campaign/Описание Кампании.md",
+    "Images/Flavius Calidius Leorung.png",
+    "Campaign/Characters/Агис Лаурэ.md",
     "World/Jungle/Random Encounters/Jungle/Enemies/Bone Idol.md",
     "Images/wood_idol.png",
     "Images/bone_idol.png",
     "Images/Jungle_of_Hungry_Trees 1.png",
-    "Campaign/Characters/Сайрим Абердин.md",
-    "Campaign/Characters/Кейси.md",
-    "World/Jungle/Random Encounters/Jungle/Enemies/Dream Spider.md",
     "Images/JoJo.png",
     "Images/Casey.png",
-    "Images/Agis.jpg",
     "Images/Victor.jpg",
     "Images/Sairim.png",
     "World/Jungle/Random Encounters/Jungle/Enemies/Giant Spider.md",
@@ -224,17 +233,7 @@
     "World/Jungle/Factions/Циклопы Гохл-Ган.md",
     "World/Jungle/Random Encounters/Jungle/Enemies/Idol, Wood.md",
     "World/Jungle/Factions/Циклопы Гол-Ган/Известные руины Гол-Гана.md",
-    "World/Shackles/Оковы.md",
-    "World/Shackles/Cities/Порт Рисковый.md",
-    "World/Гарунд.md",
-    "World/Око Абендего.md",
-    "create a link.md",
-    "Welcome.md",
-    "README.md",
-    "Map test.md",
     "templates",
-    "Images/Untugu.jpg",
-    "Images/Drake.jpg",
     "Images/Yemba.jpg.~tmp",
     "World/Shackles/Cities",
     "World/Shackles",
